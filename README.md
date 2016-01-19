@@ -1,2 +1,2 @@
 # hello-world
-The first git repository
+Doing a lot of programming shit, this is just for testing purposes
