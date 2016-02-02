@@ -13,3 +13,4 @@ webbrowser.open('https://www.google.com')
 
 
 webbrowser.open('https://www.facebook.com')
+webbrowser.open('https://www.ynet.co.il')
